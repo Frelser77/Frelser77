@@ -2,7 +2,7 @@
 <img src="/img/code_development_icon.png" alt="CODING" width="200" height="200" />
 </p>
 
-# Ciao, sono [Frelser77, Salvatore Alessandro D'Amico]! 👋
+# Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
 
 ## 👨‍💻 Junior Frontend Developer, e futuro junor FullStack developer
 
