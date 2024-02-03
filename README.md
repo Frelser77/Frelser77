@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: gray;">
 <img src="/img/code_development_icon.png" alt="CODING" width="200" height="200" />
 </p>
 
