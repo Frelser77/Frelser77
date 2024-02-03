@@ -1,5 +1,4 @@
 <p align="center">
-<img src="/img/bg-grey.png" alt="BACKGORUND-COLOR-GREY" />
 <img src="/img/code_development_icon.png" alt="CODING" width="200" height="200" />
 </p>
 
