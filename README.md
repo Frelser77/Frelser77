@@ -14,14 +14,14 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 - **Strumenti & Metodologie:** Responsive Design, Fetch API, Async/Await, Git, GitHub
 
 <p align="center">
-<img src="/img/html5_icon.png" alt="HTML5" width="50" height="50" />&nbsp;&nbsp;
-<img src="/img/css3_icon.png" alt="CSS3" width="50" height="50" />&nbsp;&nbsp;
-<img src="/img/sass_icon.png" alt="SASS" width="50" height="50" />&nbsp;&nbsp;
-<img src="/img/bootstrap_icon.png" alt="Bootstrap" width="50" height="50" />&nbsp;&nbsp;
+<img src="/img/html5_icon.png" alt="HTML5" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="/img/css3_icon.png" alt="CSS3" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="/img/sass_icon.png" alt="SASS" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="/img/bootstrap_icon.png" alt="Bootstrap" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-<img src="/img/js_icon.png" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
-<img src="/img/react%20native_icon.png" alt="React Native" width="50" height="50" />&nbsp;&nbsp;
+<img src="/img/js_icon.png" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="/img/react%20native_icon.png" alt="React Native" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="/img/redux_icon.png" alt="Redux" width="50" height="50" />
 </p>
 
@@ -31,9 +31,9 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 ### 💼 Progetti in Evidenza
 
-- [linkedin-redux](https://github.com/Frelser77/linkedin-redux)
+- [linkedin-redux](https://github.com/Frelser77/linkdin-redux)
 - [netflix-clone-ESAME](https://github.com/Frelser77/netflix-clone-ESAME)
-- [weather-app](https://github.com/Frelser77/weather-app)
+- [weather-app](https://github.com/Frelser77/weather)
 - Altri progetti possono essere trovati nel mio [portfolio](https://github.com/Frelser77).
 
 ### 📫 Contatti
