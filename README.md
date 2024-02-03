@@ -45,4 +45,4 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 
-![Profile Views](https://gpvc.arturio.dev/Frelser77)
+![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)
