@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/img/code_development_icon.png-bg2" alt="CODING"  />
+<img src="/img/code_development_icon.png-bg2.png" alt="CODING"  />
 </p>
 
 # Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
