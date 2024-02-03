@@ -40,7 +40,7 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 ### 📫 Contatti
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/){:target="_blank"}
+-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/){:target="_blank"}
 - **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com){:target="_blank"}
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
