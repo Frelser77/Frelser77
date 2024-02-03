@@ -13,17 +13,21 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 - **Frameworks/Librerie:** React, React Native, Redux
 - **Strumenti & Metodologie:** Responsive Design, Fetch API, Async/Await, Git, GitHub
 
-<img src="/img/html5_icon.png" width="50" height="50" />
-<img src="/img/css3_icon.png" width="50" height="50" />
-<img src="/img/js_icon.png" width="50" height="50" />
-<img src="/img/react%20native_icon.png" width="50" height="50" />
-<img src="/img/redux_icon.png" width="50" height="50" />
-<img src="/img/sass_icon.png" width="50" height="50" />
-<img src="/img/bootstrap_icon.png" width="50" height="50" />
+<p align="center">
+<img src="/img/html5_icon.png" alt="HTML5" width="50" height="50" />
+<img src="/img/css3_icon.png" alt="CSS3" width="50" height="50" />
+<img src="/img/sass_icon.png" alt="SASS" width="50" height="50" />
+<img src="/img/bootstrap_icon.png" alt="Bootstrap" width="50" height="50" />
+</p>
+<p align="center">
+<img src="/img/js_icon.png" alt="JavaScript" width="50" height="50" />
+<img src="/img/react%20native_icon.png" alt="React Native" width="50" height="50" />
+<img src="/img/redux_icon.png" alt="Redux" width="50" height="50" />
+</p>
 
 ### 🌱 Crescita Professionale
 
-Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento.
+Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET per poi continuare approfondendo il BackEnd. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento.
 
 ### 💼 Progetti in Evidenza
 
@@ -35,7 +39,7 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 ### 📫 Contatti
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/)
-- **Email:** [damicosalvatorealessandro@email.com](mailto:damicosalvatorealessandro@email.com)![Gmail](/img/gmail_icon.png)
+- **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com)
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77)
