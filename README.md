@@ -2,21 +2,6 @@
 <img src="/img/bg.png" alt="CODING"  />
 </p>
 
-
-<svg width="200px" height="60px" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em" font-size="20">Frelser7</text>
-
-  <animate 
-    attributeName="y"
-    from="20"
-    to="40"
-    dur="1s"
-    begin="0s"
-    repeatCount="indefinite"
-  />
-</svg>
-
-
 # Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
 
 ## 👨‍💻 Junior FrontEnd Developer, e futuro junor FullStack Developer
