@@ -13,13 +13,13 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 - **Frameworks/Librerie:** React, React Native, Redux
 - **Strumenti & Metodologie:** Responsive Design, Fetch API, Async/Await, Git, GitHub
 
-![HTML5]<img src="/img/html5_icon.png" width="50" height="50" />
-![CSS3] <img src="/img/css3_icon.png" width="50" height="50" />
-![JavaScript]<img src="/img/js_icon.png" width="50" height="50" />
-![React]<img src="/img/react%20native_icon.png" width="50" height="50" />
-![Redux]<img src="/img/redux_icon.png" width="50" height="50" />
-![SASS]<img src="/img/sass_icon.png" width="50" height="50" />
-![Bootstrap]<img src="/img/bootstrap_icon.png" width="50" height="50" />
+<img src="/img/html5_icon.png" width="50" height="50" />
+<img src="/img/css3_icon.png" width="50" height="50" />
+<img src="/img/js_icon.png" width="50" height="50" />
+<img src="/img/react%20native_icon.png" width="50" height="50" />
+<img src="/img/redux_icon.png" width="50" height="50" />
+<img src="/img/sass_icon.png" width="50" height="50" />
+<img src="/img/bootstrap_icon.png" width="50" height="50" />
 
 ### 🌱 Crescita Professionale
 
