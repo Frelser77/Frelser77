@@ -1,4 +1,4 @@
-![Coding](/img/code_development_icon.png)
+<img src="/img/code_development_icon.png" alt="CODING" width="100" height="100" />
 
 # Ciao, sono [Frelser77, Salvatore Alessandro D'Amico]! 👋
 
@@ -34,7 +34,7 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 - [linkedin-redux](https://github.com/Frelser77/linkdin-redux)
 - [netflix-clone-ESAME](https://github.com/Frelser77/netflix-clone-ESAME)
 - [weather-app](https://github.com/Frelser77/weather)
-- Altri progetti possono essere trovati nel mio [portfolio](https://github.com/Frelser77).
+- Altri progetti possono essere trovati nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77?tab=repositories).
 
 ### 📫 Contatti
 
@@ -42,6 +42,5 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 - **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com)
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
-[![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77)
 
 ![Profile Views](https://gpvc.arturio.dev/Frelser77)
