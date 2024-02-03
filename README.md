@@ -33,15 +33,15 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 ### 💼 Progetti in Evidenza
 
-- [linkedin-redux](https://github.com/Frelser77/linkdin-redux){:target="\_blank"}
-- [netflix-clone-ESAME](https://github.com/Frelser77/netflix-clone-ESAME){:target="\_blank"}
-- [weather-app](https://github.com/Frelser77/weather){:target="\_blank"}
-- Altri progetti possono essere trovati nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77?tab=repositories).{:target="\_blank"}
+- [linkedin-redux](https://github.com/Frelser77/linkdin-redux){:target="_blank"}
+- [netflix-clone-ESAME](https://github.com/Frelser77/netflix-clone-ESAME){:target="_blank"}
+- [weather-app](https://github.com/Frelser77/weather){:target="_blank"}
+- Altri progetti possono essere trovati nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77?tab=repositories).{:target="_blank"}
 
 ### 📫 Contatti
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/){:target="\_blank"}
-- **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com){:target="\_blank"}
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/){:target="_blank"}
+- **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com){:target="_blank"}
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 
