@@ -1,6 +1,6 @@
-<div align="center" style="background-color: lightgrey">
+<p align="center">
 <img src="/img/code_development_icon.png" alt="CODING" width="200" height="200" />
-</div>
+</p>
 
 # Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
 
