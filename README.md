@@ -13,7 +13,13 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 - **Frameworks/Librerie:** React, React Native, Redux
 - **Strumenti & Metodologie:** Responsive Design, Fetch API, Async/Await, Git, GitHub
 
-![HTML5](/img/html5_icon.png) ![CSS3](/img/css3_icon.png) ![JavaScript](/img/js_icon.png) ![React](/img/react%20native_icon.png) ![Redux](/img/redux_icon.png) ![SASS](/img/sass_icon.png) ![Bootstrap](/img/bootstrap_icon.png)
+![HTML5]<img src="/img/html5_icon.png" width="50" height="50" />
+![CSS3] <img src="/img/css3_icon.png" width="50" height="50" />
+![JavaScript]<img src="/img/js_icon.png" width="50" height="50" />
+![React]<img src="/img/react%20native_icon.png" width="50" height="50" />
+![Redux]<img src="/img/redux_icon.png" width="50" height="50" />
+![SASS]<img src="/img/sass_icon.png" width="50" height="50" />
+![Bootstrap]<img src="/img/bootstrap_icon.png" width="50" height="50" />
 
 ### 🌱 Crescita Professionale
 
@@ -28,9 +34,10 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 ### 📫 Contatti
 
-- **LinkedIn:** [Salvatore Alessandro D'Amico](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/)![Linkedin](/img/linkedin_icon.png)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/)
 - **Email:** [damicosalvatorealessandro@email.com](mailto:damicosalvatorealessandro@email.com)![Gmail](/img/gmail_icon.png)
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
+[![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77)
 
 ![Profile Views](https://gpvc.arturio.dev/Frelser77)
