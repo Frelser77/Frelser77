@@ -14,14 +14,14 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 - **Strumenti & Metodologie:** Responsive Design, Fetch API, Async/Await, Git, GitHub
 
 <p align="center">
-<img src="/img/html5_icon.png" alt="HTML5" width="50" height="50" />
-<img src="/img/css3_icon.png" alt="CSS3" width="50" height="50" />
-<img src="/img/sass_icon.png" alt="SASS" width="50" height="50" />
-<img src="/img/bootstrap_icon.png" alt="Bootstrap" width="50" height="50" />
+<img src="/img/html5_icon.png" alt="HTML5" width="50" height="50" />&nbsp;&nbsp;
+<img src="/img/css3_icon.png" alt="CSS3" width="50" height="50" />&nbsp;&nbsp;
+<img src="/img/sass_icon.png" alt="SASS" width="50" height="50" />&nbsp;&nbsp;
+<img src="/img/bootstrap_icon.png" alt="Bootstrap" width="50" height="50" />&nbsp;&nbsp;
 </p>
 <p align="center">
-<img src="/img/js_icon.png" alt="JavaScript" width="50" height="50" />
-<img src="/img/react%20native_icon.png" alt="React Native" width="50" height="50" />
+<img src="/img/js_icon.png" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
+<img src="/img/react%20native_icon.png" alt="React Native" width="50" height="50" />&nbsp;&nbsp;
 <img src="/img/redux_icon.png" alt="Redux" width="50" height="50" />
 </p>
 
