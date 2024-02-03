@@ -4,7 +4,7 @@
 
 # Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
 
-## 👨‍💻 Junior Frontend Developer, e futuro junor FullStack developer
+## 👨‍💻 Junior FrontEnd Developer, e futuro junor FullStack developer
 
 Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specializzato in **React Native** e **React** con **Redux**, con una forte propensione per l'uso di **Redux Toolkit 2.0** e **Redux Persist**.
 
