@@ -1,5 +1,9 @@
-<svg width="1000" height="800" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
-  <!-- F -->
+<svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+<text x="10" y="30" font-family="Arial" font-size="80" fill="white" opacity="0">
+    F
+    <animate attributeName="x" values="-10;10;-10" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
+</text>
   <text x="10" y="30" font-family="Arial" font-size="80" fill="black" opacity="0">
     F
     <animate attributeName="x" values="-10;10;-10" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
