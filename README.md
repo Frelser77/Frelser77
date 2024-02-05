@@ -2,7 +2,7 @@
 <img src="/img/bg.png" alt="CODING"  />
 </p>
 
-<img src="/img/7.svg" alt="Seven" width="300" height="100" />
+<img src="/img/7.svg" alt="Seven" width="400" height="100" />
 # Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
 
 ## 👨‍💻 Junior FrontEnd Developer, e futuro junor FullStack Developer
