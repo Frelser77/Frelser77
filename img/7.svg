@@ -1,11 +1,57 @@
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="40" font-family="Arial" font-size="40" fill="black">7
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 50 50"
-      to="360 50 50"
-      dur="2s"
-      repeatCount="indefinite"/>
+<svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- F -->
+  <text x="10" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    F
+    <animate attributeName="x" values="-10;10;-10" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- R -->
+  <text x="30" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    R
+    <animate attributeName="x" values="-10;30;-10" keyTimes="0;0.14;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.14;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- E -->
+  <text x="50" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    E
+    <animate attributeName="x" values="-10;50;-10" keyTimes="0;0.21;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.21;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- L -->
+  <text x="70" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    L
+    <animate attributeName="x" values="-10;70;-10" keyTimes="0;0.28;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.28;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- S -->
+  <text x="90" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    S
+    <animate attributeName="x" values="-10;90;-10" keyTimes="0;0.35;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.35;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- E -->
+  <text x="110" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    E
+    <animate attributeName="x" values="-10;110;-10" keyTimes="0;0.42;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.42;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- R -->
+  <text x="130" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    R
+    <animate attributeName="x" values="-10;130;-10" keyTimes="0;0.49;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.49;1" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- 7 -->
+  <text x="150" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
+    7
+    <animate attributeName="x" values="-10;150;-10" keyTimes="0;0.56;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.56;1" dur="6.5s" repeatCount="indefinite"/>
   </text>
 </svg>
