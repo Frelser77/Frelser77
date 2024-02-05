@@ -2,7 +2,7 @@
   <!-- F -->
   <text x="10" y="30" font-family="Arial" font-size="30" fill="black" opacity="0">
     F
-    <animate attributeName="x" values="-10;10;-10" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="-10;25;-10" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.07;1" dur="6.5s" repeatCount="indefinite"/>
   </text>
   
