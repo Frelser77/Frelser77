@@ -24,8 +24,8 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 <p align="center">
 <img src="/img/js_icon.png" alt="JavaScript" width="70" height="70" />&nbsp;&nbsp;&nbsp;
 <img src="/img/react%20native_icon.png" alt="React Native" width="70" height="66" />&nbsp;&nbsp;&nbsp;
-<img src="/img/redux_icon.png" alt="Redux" width="70" height="66" />&nbsp;&nbsp;&nbsp;
-<img src="./img/vite-seeklogo.svg" alt="Vite" width="70" height="70" />
+<img src="./img/vite-seeklogo.svg" alt="Vite" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+<img src="/img/redux_icon.png" alt="Redux" width="70" height="66" />
 </p>
 
 ### 🌱 Crescita Professionale
