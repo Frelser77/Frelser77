@@ -29,7 +29,7 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 
 ### 🌱 Crescita Professionale
 
-Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET per poi continuare approfondendo il BackEnd. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento.
+Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET per poi continuare approfondendo il BackEnd. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento. Lato FrontEnd sto aumentando le mie skils, approcciandomi nell'uso di vite e di tailwind per i miei progetti.
 
 ### 💼 Progetti in Evidenza
 
