@@ -51,6 +51,8 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 - **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com)
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
+![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77)](https://github.com/ryo-ma/github-profile-trophy)
-![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77)](https://github.com/ryo-ma/github-profile-trophy)<br/>
