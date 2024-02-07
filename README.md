@@ -29,9 +29,9 @@ Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specia
 <img src="/img/redux_icon.png" alt="Redux" width="70" height="66" />
 </p>
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frelser77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true)
+</p>
 
 ### 🌱 Crescita Professionale
 
