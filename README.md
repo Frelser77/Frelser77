@@ -7,14 +7,14 @@
 
 <h2 align="center">👨‍💻 Junior FrontEnd Developer & Futuro Junior FullStack Developer</h2>
 
-<p align="center">Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend con una forte propensione per <strong>React Native</strong> e <strong>React</strong> con <strong>Redux</strong>, specializzato nell'uso di <strong>Redux Toolkit 2.0</strong> e <strong>Redux Persist</strong>.</p>
+<p align="center">Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend con una forte propensione per <strong>React Native</strong>(Che ha tanto fascino) e <strong>React</strong> con <strong>Redux</strong>, specializzato nell'uso di <strong>Redux Toolkit 2.0</strong> e <strong>Redux Persist</strong></p>
 
 ### 🛠️ Competenze Tecniche
 
 - **Linguaggi di Programmazione:** JavaScript (ES6+)
 - **Frontend:** HTML5, CSS3, SASS, Bootstrap
-- **Frameworks/Librerie:** React, React Native, Redux
-- **Strumenti & Metodologie:** Responsive Design, Fetch API, Async/Await, Git, GitHub
+- **Frameworks/Librerie:** React, React Native, Redux, Vite
+- **Strumenti & Metodologie:** Responsive Design, Fetch API, CRUD, GitHub, SMSS
 
 <p align="center">
 <img src="/img/html5_icon.png" alt="HTML5" width="80" height="80" />&nbsp;&nbsp;&nbsp;
