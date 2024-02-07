@@ -3,11 +3,11 @@
 </p>
 
 <img src="/img/7.svg" alt="Seven" width="400" height="100" />
-# Ciao, sono [Frelser77], Salvatore Alessandro D'Amico! 👋
+<h1 align="center">Ciao, sono Salvatore Alessandro D'Amico! 👋</h1>
 
-## 👨‍💻 Junior FrontEnd Developer, e futuro junor FullStack Developer
+<h2 align="center">👨‍💻 Junior FrontEnd Developer & Futuro Junior FullStack Developer</h2>
 
-Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend specializzato in **React Native** e **React** con **Redux**, con una forte propensione per l'uso di **Redux Toolkit 2.0** e **Redux Persist**.
+<p align="center">Benvenuto nel mio spazio GitHub! Sono un entusiasta sviluppatore frontend con una forte propensione per <strong>React Native</strong> e <strong>React</strong> con <strong>Redux</strong>, specializzato nell'uso di <strong>Redux Toolkit 2.0</strong> e <strong>Redux Persist</strong>.</p>
 
 ### 🛠️ Competenze Tecniche
 
@@ -53,7 +53,7 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
