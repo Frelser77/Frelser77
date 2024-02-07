@@ -44,15 +44,13 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 - [weather-app](https://github.com/Frelser77/weather)
 - Altri progetti possono essere trovati nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77?tab=repositories).<br/>
 
-[Visualizza gli ultimi commit](https://github.com/Frelser77/tuo-repository/commits/main)
-
 ### 📫 Contatti
 
 -- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/)
 
 - **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com)
 
-Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
+Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)<br/>
