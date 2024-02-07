@@ -52,4 +52,5 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)
