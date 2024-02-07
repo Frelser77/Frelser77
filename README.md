@@ -33,10 +33,6 @@
 
 Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET per poi continuare approfondendo il BackEnd. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento. Lato FrontEnd sto aumentando le mie skils, approcciandomi nell'uso di Vite e una sbirciatina anche a Tailwind per i miei progetti.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frelser77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true&count_private=true)
-
 ### 💼 Progetti in Evidenza
 
 - [linkedin-redux](https://github.com/Frelser77/linkdin-redux)
@@ -50,10 +46,15 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 - **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com)
 
-Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)<br/>
-
+Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Frelser77)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frelser77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true&count_private=true)
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
