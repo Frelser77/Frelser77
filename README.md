@@ -54,7 +54,6 @@ Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 <br/>
 ![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true&count_private=true)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
-<br/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
