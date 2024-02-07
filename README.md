@@ -35,7 +35,7 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frelser77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![TuoNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true)
+![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true)
 
 </p>
 
