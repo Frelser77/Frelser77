@@ -56,4 +56,4 @@ Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
