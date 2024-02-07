@@ -42,7 +42,9 @@ Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione d
 - [linkedin-redux](https://github.com/Frelser77/linkdin-redux)
 - [netflix-clone-ESAME](https://github.com/Frelser77/netflix-clone-ESAME)
 - [weather-app](https://github.com/Frelser77/weather)
-- Altri progetti possono essere trovati nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77?tab=repositories).
+- Altri progetti possono essere trovati nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frelser77-lightgrey)](https://github.com/Frelser77?tab=repositories).<br/>
+
+[Visualizza gli ultimi commit](https://github.com/Frelser77/tuo-repository/commits/main)
 
 ### 📫 Contatti
 
