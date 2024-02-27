@@ -31,7 +31,7 @@
 
 ### 🌱 Crescita Professionale
 
-Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET per poi continuare approfondendo il BackEnd. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento. Lato FrontEnd sto aumentando le mie skils, approcciandomi nell'uso di Vite e una sbirciatina anche a Tailwind per i miei progetti.
+Attualmente sto ampliando le mie competenze in C# e sperimentando la creazione di console app con .NET per poi continuare approfondendo il BackEnd. La mia passione per la tecnologia mi spinge sempre a cercare nuove sfide e opportunità di apprendimento. Lato FrontEnd sto aumentando le mie skils.
 
 ### 💼 Progetti in Evidenza
 
