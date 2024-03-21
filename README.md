@@ -13,7 +13,7 @@
 
 - **Linguaggi di Programmazione:** JavaScript (ES6+)
 - **Frontend:** HTML5, CSS3, SASS, Bootstrap
-- **Frameworks/Librerie:** React, React Native, Redux, Vite
+- **Frameworks/Librerie:** React, Redux, Vite
 - **Strumenti & Metodologie:** Responsive Design, Fetch API, CRUD, GitHub, SMSS
 
 <p align="center">
