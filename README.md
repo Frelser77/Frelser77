@@ -103,7 +103,5 @@ Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frelser77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 <br/>
 ![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true&count_private=true)  
-<!-- <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&no-frame=true&theme=darkhub&column=4&margin-w=15&margin-h=15&v=2)](https://github.com/ryo-ma/github-profile-trophy) -->
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
