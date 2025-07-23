@@ -47,6 +47,7 @@
   <img src="/img/react%20native_icon.png" alt="React Native" width="70" height="66" />&nbsp;&nbsp;&nbsp;
   <img src="./img/vite-seeklogo.svg" alt="Vite" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/redux_icon.png" alt="Redux" width="70" height="66" />
+  <img src="/img/Typescript.png" alt="Typescript.png" width="70" height="66" />
 </p>
 <p align="center">
   <img src="/img/NestJS.png" alt="NestJS" width="70" height="70" />&nbsp;&nbsp;&nbsp;
@@ -102,7 +103,7 @@ Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frelser77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 <br/>
 ![Frelser77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frelser77&show_icons=true&count_private=true)  
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&no-frame=true&theme=darkhub&column=4&margin-w=15&margin-h=15&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frelser77&no-frame=true&theme=darkhub&column=4&margin-w=15&margin-h=15&v=2)](https://github.com/ryo-ma/github-profile-trophy) -->
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frelser77)](https://git.io/streak-stats)
