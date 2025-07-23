@@ -49,7 +49,7 @@
   <img src="/img/redux_icon.png" alt="Redux" width="70" height="66" />
 </p>
 <p align="center">
-  <img src="/img/NestjS.png" alt="NestJS" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+  <img src="/img/NestJS.png" alt="NestJS" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/Nodejs.png" alt="Node.js" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/Docker.png" alt="Docker" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/Electron.png" alt="Electron" width="70" height="70" />
