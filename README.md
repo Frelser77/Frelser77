@@ -55,10 +55,10 @@
   <img src="/img/Electron.png" alt="Electron" width="70" height="70" />
 </p>
 <p align="center">
-  <img src="/img/Oracle.png" alt="Oracle" width="70" height="70" />&nbsp;&nbsp;&nbsp;
-  <img src="/img/Sql.png" alt="Sql" width="70" height="70" />&nbsp;&nbsp;&nbsp;
-  <img src="/img/MongoDB.png" alt="MongoDB" width="70" height="70" />&nbsp;&nbsp;&nbsp;
-  <img src="/img/MySQL.png" alt="MySQL" width="70" height="70" />
+  <img src="/img/Oracle.png" alt="Oracle" width="80" height="80" />&nbsp;&nbsp;&nbsp;
+  <img src="/img/Sql.png" alt="Sql" width="80" height="80" />&nbsp;&nbsp;&nbsp;
+  <img src="/img/MongoDB.png" alt="MongoDB" width="80" height="80" />&nbsp;&nbsp;&nbsp;
+  <img src="/img/MySQL.png" alt="MySQL" width="80" height="80" />
 </p>
 
 ---
