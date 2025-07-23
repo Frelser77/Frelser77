@@ -49,7 +49,7 @@
   <img src="/img/redux_icon.png" alt="Redux" width="70" height="66" />
 </p>
 <p align="center">
-  <img src="/img/Nestjs.png" alt="NestJS" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+  <img src="/img/NestjS.png" alt="NestJS" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/Nodejs.png" alt="Node.js" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/Docker.png" alt="Docker" width="70" height="70" />&nbsp;&nbsp;&nbsp;
   <img src="/img/Electron.png" alt="Electron" width="70" height="70" />
@@ -87,9 +87,13 @@ Altri progetti nel mio [![Portfolio](https://img.shields.io/badge/Portfolio-Frel
 
 ### 📫 Contatti
 
--- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/)
+---
+
+**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frelser77-blue)](https://www.linkedin.com/in/salvatore-alessandro-d-amico-4a1551267/)
 
 - **Email:** [![Email](https://img.shields.io/badge/Email-damicosalvatorealessandro%40email.com-green)](mailto:damicosalvatorealessandro@email.com)
+
+---
 
 Sei interessato a collaborare o hai qualche domanda? Non esitare a raggiungermi!  
 <br/>
